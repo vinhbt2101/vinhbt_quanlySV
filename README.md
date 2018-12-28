@@ -1,2 +1,2 @@
 # vinhbt_quanlySV
-this is the first project of C++
+hello guy
